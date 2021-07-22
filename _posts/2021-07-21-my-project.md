@@ -5,6 +5,7 @@ date: 2021-07-21 21:00:00 +0700
 categories: [Web]
 tags: [reactjs, rubyonrails, webapi]
 pin: true
+mermaid: true
 ---
 
 # My web project in github
@@ -14,7 +15,8 @@ pin: true
   2. [Node Js](#-node-js)
   3. [Ruby on Rails](#-ror)
 
-
+---
+<br>
 <a name="-react-js"></a>
 
 ## 1. React Js
@@ -28,12 +30,17 @@ pin: true
 
  - [Chat App](https://chat.hahunavth.xyz)
 
+---
+ <br>
+
  <a name="-node-js"></a>
 
 ## 2. Node Js
 
  - [Express Api](https://hahunavth.github.com/express_api);
 
+---
+ <br>
 
  <a name="-ror"></a>
 
