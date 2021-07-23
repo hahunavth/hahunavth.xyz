@@ -286,7 +286,37 @@ footer {
   }
 }
 
+  //hahunavth-
+  @keyframes slideInFromBottom {
+  0% {
+    opacity: 0%;
+    transform: translateY(10px);
+  }
+  30% {
+    opacity: 10%;
+    transform: translateY(7px);
+  }
+  60% {
+    opacity: 30%;
+    transform: translateY(4px);
+  }
+  90% {
+    opacity: 50%;
+    transform: translateY(1px);
+  }
+  100% {
+    opacity: 100%;
+    transform: translateY(0);
+  }
+}
+
+
 .post {
+
+  //hahunavth-
+
+  animation: .2s linear 0s 1 slideInFromBottom;
+
   h1 {
     margin-top: 3rem;
     margin-bottom: 1rem;
