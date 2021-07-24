@@ -66,8 +66,10 @@
 
   <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
 
-  <!-- add the button style & script -->
-  <link rel="stylesheet" href="/assets/css/applause/applause-button.css" />
-  <script src="/assets/js/applause/applause-button.js"></script>
+  {% if page.applause_button %}
+    <!-- add the button style & script -->
+    <link rel="stylesheet" href="/assets/css/applause/applause-button.css" />
+    <script src="/assets/js/applause/applause-button.js"></script>
+  {% endif %}
 
 </head>
