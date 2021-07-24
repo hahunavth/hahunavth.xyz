@@ -84,7 +84,11 @@ toc: true
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
+<<<<<<< HEAD
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+=======
+  shortname: 'my-blog-1p0gj9wxt8'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+>>>>>>> 5550e323ecf4dd44fa9df31b28f26737165396c0
 
 paginate: 10
 
