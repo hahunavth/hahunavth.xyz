@@ -1,7 +1,7 @@
 ---
 title: Triết 1 - Đề cương
 author: Hahunavth
-date: 2021-07-26 06:10:00 +0700
+date: 2121-07-26 06:10:00 +0700
 categories: [Philosophy]
 tags: []
 ---

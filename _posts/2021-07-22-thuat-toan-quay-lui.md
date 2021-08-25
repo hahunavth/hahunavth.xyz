@@ -1,7 +1,7 @@
 ---
 title: Backtracking - Thuật toán quay lui
 author: Hahunavth
-date: 2021-07-22 06:10:00 +0700
+date: 2121-07-22 06:10:00 +0700
 categories: [Algorithm]
 tags: [code, C]
 ---

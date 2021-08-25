@@ -1,7 +1,7 @@
 ---
 title: Linear Regression - Hồi quy tuyến tính
 author: Hahunavth
-date: 2021-07-22 06:10:00 +0700
+date: 2121-07-22 06:10:00 +0700
 categories: [Machine Learning, Regression]
 tags: [code, Python]
 ---
