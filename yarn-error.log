@@ -1,0 +1,69 @@
+Arguments: 
+  /home/kryo/.nvm/versions/node/v14.18.2/bin/node /home/kryo/.yarn/bin/yarn global bin
+
+PATH: 
+  /home/kryo/.autojump/bin:/home/kryo/.local/bin:/home/kryo/anaconda3/bin:/home/kryo/anaconda3/condabin:/home/kryo/anaconda3/bin:/home/kryo/.local/bin:/home/kryo/.yarn/bin:/home/kryo/.config/yarn/global/node_modules/.bin:/home/kryo/.nvm/versions/node/v14.18.2/bin:/home/kryo/.autojump/bin:/home/kryo/.local/bin:/home/kryo/.cargo/bin:/usr/local/bin:/usr/bin:/var/lib/snapd/snap/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/kryo/.yarn/bin:/home/kryo/Android/Sdk/emulator:/home/kryo/Android/Sdk/tools:/home/kryo/Android/Sdk/tools/bin:/home/kryo/Android/Sdk/platform-tools:/usr/lib/jvm/default/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.18.2
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/kryo/Desktop/hahunavth.xyz/package.json: Unexpected token < in JSON at position 35
+      at JSON.parse (<anonymous>)
+      at /home/kryo/.config/yarn/global/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/home/kryo/.config/yarn/global/node_modules/yarn/lib/cli.js:310:30)
+      at /home/kryo/.config/yarn/global/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "jekyll-theme-chirpy",
+  <<<<<<< HEAD
+    "version": "4.0.2",
+    "description": "A minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation.",
+    "main": "index.js",
+    "directories": {
+      "doc": "docs"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  =======
+    "version": "5.1.0",
+    "description": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
+  >>>>>>> 3969b28743392bb47de2365651df0e9b11d50c71
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    },
+    "author": "Cotes Chung",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    },
+    "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
+    "dependencies": {
+      "gulp": "^4.0.2",
+      "gulp-concat": "^2.6.1",
+      "gulp-insert": "^0.5.0",
+      "gulp-rename": "^2.0.0",
+      "gulp-uglify": "^3.0.2",
+  <<<<<<< HEAD
+      "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+  =======
+      "uglify-js": "^3.14.3"
+  >>>>>>> 3969b28743392bb47de2365651df0e9b11d50c71
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
